@@ -87,8 +87,8 @@ html {
         text-align: center;
         padding: 4rem 1rem;
         justify-content: flex-start;
-        background-image: url(file:///E:/frontendmentor/social-proof-section-master/images/bg-pattern-top-mobile.svg),
-                          url(file:///E:/frontendmentor/social-proof-section-master/images/bg-pattern-bottom-mobile.svge); 
+        background-image: url(https://raw.githubusercontent.com/pmelsens/Social-proof-section-frontendmentor/8eb688cba186e4d1ed6c9a518d82f2c62b61533e/images/bg-pattern-top-mobile.svg),
+                          url(https://raw.githubusercontent.com/pmelsens/Social-proof-section-frontendmentor/8eb688cba186e4d1ed6c9a518d82f2c62b61533e/images/bg-pattern-bottom-mobile.svg); 
         background-repeat: no-repeat;
         background-position: left top, right bottom;
     }
