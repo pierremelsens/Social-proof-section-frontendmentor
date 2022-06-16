@@ -6,7 +6,7 @@ html {
     color: hsl(300, 43%, 22%);
     padding: 4rem 8rem;
     /*padding: 60px 150px;*/
-    background-image: url(file:///E:/frontendmentor/social-proof-section-master/images/bg-pattern-top-desktop.svg),
+    background-image: url(https://github.com/pmelsens/Social-proof-section-frontendmentor/blob/432906e9c1b9e7f6bac44eb83a270e56c73c2d73/images/bg-pattern-top-desktop.svg),
                         url(file:///E:/frontendmentor/social-proof-section-master/images/bg-pattern-bottom-desktop.svg); 
     background-repeat: no-repeat;
     background-position: left top, right bottom;
