@@ -64,6 +64,7 @@ html {
         letter-spacing: -0.02rem;
         line-height: 25px;
         color: hsl(303, 10%, 53%);
+        padding-right: auto;
 }
 }
 
@@ -98,6 +99,7 @@ html {
     }
 
     .title p {
+        padding-right: auto;
     }
 }
 
